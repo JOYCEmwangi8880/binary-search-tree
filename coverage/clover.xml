@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1701352436818" clover="3.2.0">
-  <project timestamp="1701352436818" name="All files">
+<coverage generated="1701360517927" clover="3.2.0">
+  <project timestamp="1701360517928" name="All files">
     <metrics statements="10" coveredstatements="10" conditionals="6" coveredconditionals="5" methods="3" coveredmethods="3" elements="19" coveredelements="18" complexity="0" loc="10" ncloc="10" packages="1" files="2" classes="2"/>
     <file name="bst-node.js" path="/home/joyce/development/code/phase_3/BinarySearchTree/src/bst-node.js">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>

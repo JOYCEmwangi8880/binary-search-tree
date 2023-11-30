@@ -18,7 +18,7 @@ test('it should create a new root node', () => {
   expect(bst.root).toEqual(node);
 });
 
-test('it should add a child node to the right of the root node', () => {
+test('it should add a child node to the left of the root node', () => {
   let bst = new BST();
   let rootNode = new BSTNode(36);
   bst.insert(rootNode);

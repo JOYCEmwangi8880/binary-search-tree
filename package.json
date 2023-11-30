@@ -1,7 +1,7 @@
 {
-    "name": "name-of-project-here",
+    "name": "binarysearchtree",
     "version": "1.0.0",
-    "description": "Description of project",
+    "description": "learning about binary  search tree",
     "scripts": {
       "test": "jest --coverage"
     },
